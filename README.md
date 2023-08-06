@@ -1,3 +1,3 @@
 # list_methods
-<h1>Not cheating obviously...   Just copy pasting things in cs lab ..... so obviously no cheating.....</h1>
-<h2>Only we r allowed to cheat together </h2>
+<h1>No cheating allowed...  Don't Just copy paste things in cs lab ..... so do not cheating.....</h1>
+<h2>lets not cheat </h2>
